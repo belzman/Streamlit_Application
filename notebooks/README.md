@@ -1,0 +1,3 @@
+# Solar Radiation Measurement Exploratory Data Analysis and Visualizations.
+This is the streamlit application, In this dashboard to plot the EDA you should first browse and upload the required dataset.
+After uploading the dataset the dashboard shows the sample dataset and the summary descriptions of the dataset in the centers of the dashboard. In the left side of the Dashboard there are side bars that requests us to select the the features and ploting types that we want to plot. After selecting the features the dashboard displays the EDA in the center. In this dashboard application you can also set the starting date and the end date based on your choice to plot. 
